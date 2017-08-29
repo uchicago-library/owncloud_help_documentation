@@ -13,4 +13,3 @@
 1. Click on the button labelled Create
 
 Now, the new user will shortly receive a new account creation email. You will need to communicate the password you set for them. You must also communicate with them that they must immediately change their password to something that is not known to you.
-
